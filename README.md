@@ -1,3 +1,5 @@
+![Icon](icon.png)
+
 # ListGrabber
 
 Easily copy webpage lists to plain text with a right-click.
