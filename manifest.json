@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "List Copy",
-    "version": "1.18",
+    "version": "1.28",
     "description": "Copy lists as plain text",
     "permissions": [
         "contextMenus",
@@ -18,8 +18,8 @@
         "default_popup": "popup.html"
     },
     "icons": {
-        "16": "headphones_16.png",
-        "48": "headphones_48.png",
-        "128": "headphones_128.png"
+        "16": "icon_16.png",
+        "48": "icon_48.png",
+        "128": "icon_128.png"
     }
 }

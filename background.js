@@ -3,9 +3,6 @@ chrome.runtime.onInstalled.addListener(() => {
     id: "copy-list",
     title: "Copy list text",
     contexts: ["all"],
-    icons: {
-      16: "headphones.ico",
-    },
   });
 });
 
